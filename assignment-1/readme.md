@@ -15,21 +15,11 @@ This assignment demonstrates essential data preprocessing techniques including d
 
 ```
 assignment-1/
-├── README.md                     # This file
+├── README.md                    # This file
 ├── data/
 │   ├── raw/                     # Original datasets
 │   └── processed/               # Cleaned/processed data
-├── notebooks/
-│   └── 01_data_exploration.ipynb # Main analysis notebook
-├── src/
-│   ├── __init__.py              # Package initializer
-│   └── utils.py                 # Utility functions
+├── notebooks/                   # Notebooks with sub-tasks
+├── src/                         # Utility functions
 └── results/                     # Analysis outputs
 ```
-
-## Getting Started
-
-1. Set up the virtual environment from the main IT-3212 directory (see root README)
-2. Navigate to this assignment folder
-3. Open `notebooks/01_data_exploration.ipynb` in Jupyter
-4. Run all cells to execute the analysis
