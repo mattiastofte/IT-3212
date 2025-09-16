@@ -1,0 +1,2 @@
+# This file ensures the processed data directory is tracked by Git
+# Processed datasets will be saved here during analysis
