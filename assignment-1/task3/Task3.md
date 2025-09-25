@@ -1,4 +1,4 @@
-# Task 2: Outlier detection
+# Task 3: Outlier detection
 
 **Dataset:** smoking_driking_dataset_Ver01.csv 
 
