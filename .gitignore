@@ -76,3 +76,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+
+# Assignment 2
+assignment-2/data
+dev_env
