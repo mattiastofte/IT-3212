@@ -77,6 +77,11 @@ target/
 profile_default/
 ipython_config.py
 
+# Virtual environments
+.venv/
+venv/
+env/
+
 # Assignment 2
 assignment-2/data
 dev_env
