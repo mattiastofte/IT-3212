@@ -6,6 +6,7 @@ assignment-1/data/raw/*.csv
 __pycache__/
 *.py[cod]
 *$py.class
+.venv
 
 # C extensions
 *.so
